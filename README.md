@@ -1,40 +1,9 @@
 <h1 align="center">超过1000本的计算机经典书籍分享</h1>
-<p align="center">
-    <a href="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@4.0/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
-<a href="https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g"><img src="https://img.shields.io/badge/公众号-拓跋阿秀-green.svg" alt="公众号"></a>
-  <a href="https://www.zhihu.com/people/tuo-ba-a-xiu"><img src="https://img.shields.io/badge/知乎-拓跋阿秀-informational.svg" alt="知乎"></a>
-   <a href="https://blog.csdn.net/songhao19?spm=1000.2115.3001.5343&type=blog"><img src="https://img.shields.io/badge/CSDN-拓跋阿秀-important.svg" alt="CSDN"></a>
-       <a href="https://blog.nowcoder.net/hello32"><img src="https://img.shields.io/badge/牛客网-拱白菜的阿秀-9cf" alt="牛客网"></a>
-    <a href="https://github.com/forthespada/InterviewGuide"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文">      <a href="https://interviewguide.cn/#/"><img src="https://img.shields.io/badge/推荐阅读-大佬好文-import.svg" alt="学习"></a>
-           <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
-        </p>
-
-
-**0**、🔥🔥🔥**最新分享，分享一个面试求职网站**
-
-![](http://oss.interviewguide.cn/img/202307291803868.png)
-
-![](http://oss.interviewguide.cn/img/202307291805445.png)
-
-就拿互联网来说，国内外主流一二线大厂全都覆盖了，比如`字节跳动`、`阿里`、`腾讯`、`百度`、`美团`，除此外比如一些其余的非互联网行业，如中国银行、建设银行、联通、移动等都包含在内。
-
-![](http://oss.interviewguide.cn/img/202307291804434.png)
-
-
-
-**网站链接**：https://top.interviewguide.cn/
-
-
 
 #### 1、👉 如果国内访问Github网速较慢，国内访问:<a href="https://gitee.com/ForthEspada/CS-Books" target="_blank">点此直达 </a>
 
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
 
->简单附赠两个云服务器优惠信息： 
->
->【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   <a href="http://1v9.xyz/1NfKlv" target="_blank">传送门</a> 
->
->【腾讯云】轻量应用服务器限时秒杀，**1核2G6M** 限时首年**74**元/年【阿秀强烈推荐】 <a href="https://curl.qcloud.com/R21rJgZ7" target="_blank">传送门</a>
 
 ####   2、🔥🔥🔥计算机校招求职学习网站
 
@@ -61,8 +30,6 @@
 </div>
 
 >点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面。 
->
->笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，目前已经更新超过500+了，如果没有您要用的书，可以加一下**个人微信([coderxiu2](http://oss.interviewguide.cn/img/202204281304520.png))**，注明来意，我会慢慢添加上去的。一个人的力量是有限的，请谅解一下。
 
 - [00、C语言](#00c语言)
 - [01、C++](#01c)
